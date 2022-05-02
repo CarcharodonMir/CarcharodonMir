@@ -1,5 +1,10 @@
 ### Hi there 👋
 Welcome to my GitHub
+
+
+### 🔭 I’m currently working on ...
+Completing my Dev10 Bootcamp Training 
+
 <!--
 **CarcharodonMir/CarcharodonMir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
