@@ -13,7 +13,8 @@
 </div>
 
 ### 🔭 I’m working on
-- Finishing up the Dev10 Java Cloud BootCamp
+-Porfolio Website
+-Ecommerce Site For My Buisness
 
 ### 🌱 I’m learning
 
