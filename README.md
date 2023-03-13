@@ -13,8 +13,7 @@
 </div>
 
 ### 🔭 I’m working on
--Porfolio Website
--Ecommerce Site For My Buisness
+My Porfolio Website & Ecommerce Site For My Buisness
 
 ### 🌱 I’m learning
 
